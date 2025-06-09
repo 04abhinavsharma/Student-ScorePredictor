@@ -25,9 +25,9 @@ A machine learning project that predicts students' final exam scores (`G3`) usin
    git clone https://github.com/04abhinavsharma/Student-ScorePredictor.git
    cd Student-ScorePredictor
 2. Install Dependencies:
-   pip install -r requirements.txt
+   ```pip install -r requirements.txt
 3. Open the notebook:
-   jupyter notebook student_score_predictor.ipynb
+   ```jupyter notebook student_score_predictor.ipynb
 
 📂 Files in the Repo
 student_score_predictor.ipynb: Colab notebook with full ML pipeline
