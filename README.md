@@ -29,7 +29,7 @@ A machine learning project that predicts students' final exam scores (`G3`) usin
    pip install -r requirements.txt
 4. Open the notebook:
    ```bash
-   ```jupyter notebook student_score_predictor.ipynb
+   jupyter notebook student_score_predictor.ipynb
 
 📂 Files in the Repo
 student_score_predictor.ipynb: Colab notebook with full ML pipeline
